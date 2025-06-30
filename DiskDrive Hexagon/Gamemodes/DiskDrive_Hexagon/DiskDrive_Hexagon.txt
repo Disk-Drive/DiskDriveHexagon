@@ -1,0 +1,11 @@
+"DiskDrive Hexagon"
+{
+	"base"          "base" 
+	"title"         "DiskDrive Hexagon"
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+}
+
